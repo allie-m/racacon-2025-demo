@@ -1,0 +1,4 @@
+[workspace]
+
+package.edition = "2024"
+members = ["clns", "example-calculator"]
